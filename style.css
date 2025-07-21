@@ -2,7 +2,8 @@ body {
     background-color: black;
 
     color: white;
-    font-family:Chakra Petch sans-serif;
+    font-family:"Chakra Petch" sans-serif;
+    margin: 20px;
     h1{
         font-size: 40px;
     }
